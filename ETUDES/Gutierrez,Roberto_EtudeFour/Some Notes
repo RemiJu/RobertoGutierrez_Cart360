@@ -1,0 +1,17 @@
+I made two videos, one with the regular Piezo and the other with a larger speaker.
+
+For some reason (likely because one of the buttons seems to be stuck on or somesuch) the speaker will sometimes keep making noise
+despite no button being pressed.
+
+During Record mode for some reason (likely due to a delay I put in) there is a stutter in the button presses.
+I decided t keep it in because it sounded interesting, and ultimately doesnt affect the recording. I've always
+had a bit of an interest in stuttering in music.
+
+Additionally I provide credit to Steven Papadakos, the friend I constantly mention in the comments, for helping
+out a lot with the code, in spite of not knowing much about arduino, his prior experience being with Raspberry Pi.
+
+I also want to credit Melina Lopez-Racine for help as well, she helped me to figure out a few things I wasn't able to and 
+didnt have the chance to ask Sabine or Elio for help due to many of my class and work schedules conflicting with
+lab times.
+
+Overall a fun Etude.
